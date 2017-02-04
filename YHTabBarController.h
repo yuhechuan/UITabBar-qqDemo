@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  YHTabBarController.h
 //  UITabBar-qqDemo
 //
 //  Created by apple on 2017/2/4.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface YHTabBarController : UITabBarController
 
 @end
-
